@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c6f2bd9-ff38-4bd9-a83b-569cd77999c5" name="Changes" comment="" />
+    <list default="true" id="9c6f2bd9-ff38-4bd9-a83b-569cd77999c5" name="Changes" comment="Ass01_RockPaperScissors completed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +45,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -72,11 +76,24 @@
       <option name="presentableId" value="Default" />
       <updated>1759757769289</updated>
       <workItem from="1759757770128" duration="371000" />
-      <workItem from="1759760183150" duration="665000" />
+      <workItem from="1759760183150" duration="2460000" />
     </task>
+    <task id="LOCAL-00001" summary="Ass01_RockPaperScissors completed">
+      <option name="closed" value="true" />
+      <created>1759760935692</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759760935692</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ass01_RockPaperScissors completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ass01_RockPaperScissors completed" />
   </component>
 </project>
